@@ -1,0 +1,51 @@
+student_id,first_name,last_name,email,phone,department,enrollment_date
+1,Aarav,Sharma,aarav.sharma@university.edu,555-0101,Computer Science,2023-08-15
+2,Emma,Thompson,emma.thompson@university.edu,555-0102,Mathematics,2023-08-15
+3,Liu,Wei,liu.wei@university.edu,555-0103,Physics,2023-08-20
+4,Sofia,Garcia,sofia.garcia@university.edu,555-0104,English Literature,2023-08-15
+5,James,Wilson,james.wilson@university.edu,555-0105,Business Administration,2023-08-20
+6,Priya,Patel,priya.patel@university.edu,555-0106,Computer Science,2023-08-15
+7,Noah,Anderson,noah.anderson@university.edu,555-0107,Mechanical Engineering,2023-08-20
+8,Yuki,Tanaka,yuki.tanaka@university.edu,555-0108,Electrical Engineering,2023-08-15
+9,Isabella,Martinez,isabella.martinez@university.edu,555-0109,Biology,2023-08-20
+10,Ethan,Brown,ethan.brown@university.edu,555-0110,Chemistry,2023-09-01
+11,Fatima,Khan,fatima.khan@university.edu,555-0111,History,2023-09-01
+12,Liam,Davis,liam.davis@university.edu,555-0112,Computer Science,2023-09-01
+13,Mei,Chen,mei.chen@university.edu,555-0113,Mathematics,2023-09-01
+14,Olivia,Taylor,olivia.taylor@university.edu,555-0114,Physics,2023-09-15
+15,Raj,Kumar,raj.kumar@university.edu,555-0115,English Literature,2023-09-15
+16,Chloe,Moore,chloe.moore@university.edu,555-0116,Business Administration,2023-09-15
+17,Ahmed,Hassan,ahmed.hassan@university.edu,555-0117,Mechanical Engineering,2023-09-15
+18,Mia,Jackson,mia.jackson@university.edu,555-0118,Electrical Engineering,2024-01-10
+19,Carlos,Rodriguez,carlos.rodriguez@university.edu,555-0119,Biology,2024-01-10
+20,Hannah,White,hannah.white@university.edu,555-0120,Chemistry,2024-01-10
+21,Arjun,Singh,arjun.singh@university.edu,555-0121,Computer Science,2024-01-10
+22,Grace,Lee,grace.lee@university.edu,555-0122,History,2024-01-15
+23,Omar,Ali,omar.ali@university.edu,555-0123,Mathematics,2024-01-15
+24,Sophia,Harris,sophia.harris@university.edu,555-0124,Physics,2024-01-15
+25,Tomoko,Yamamoto,tomoko.yamamoto@university.edu,555-0125,English Literature,2024-01-15
+26,William,Clark,william.clark@university.edu,555-0126,Business Administration,2024-02-01
+27,Anika,Desai,anika.desai@university.edu,555-0127,Computer Science,2024-02-01
+28,Benjamin,Lewis,benjamin.lewis@university.edu,555-0128,Mechanical Engineering,2024-02-01
+29,Sara,Malik,sara.malik@university.edu,555-0129,Electrical Engineering,2024-02-01
+30,Daniel,Walker,daniel.walker@university.edu,555-0130,Biology,2024-02-15
+31,Nisha,Gupta,nisha.gupta@university.edu,555-0131,Chemistry,2024-02-15
+32,Lucas,Hall,lucas.hall@university.edu,555-0132,History,2024-02-15
+33,Zara,Ahmed,zara.ahmed@university.edu,555-0133,Computer Science,2024-02-15
+34,Alexander,Young,alexander.young@university.edu,555-0134,Mathematics,2024-06-01
+35,Kavya,Nair,kavya.nair@university.edu,555-0135,Physics,2024-06-01
+36,Charlotte,King,charlotte.king@university.edu,555-0136,English Literature,2024-06-01
+37,Ravi,Verma,ravi.verma@university.edu,555-0137,Business Administration,2024-06-01
+38,Amelia,Wright,amelia.wright@university.edu,555-0138,Mechanical Engineering,2024-06-15
+39,Hiroshi,Sato,hiroshi.sato@university.edu,555-0139,Electrical Engineering,2024-06-15
+40,Emily,Scott,emily.scott@university.edu,555-0140,Biology,2024-06-15
+41,Vikram,Reddy,vikram.reddy@university.edu,555-0141,Computer Science,2024-08-15
+42,Natalie,Green,natalie.green@university.edu,555-0142,Chemistry,2024-08-15
+43,Mohammad,Ibrahim,mohammad.ibrahim@university.edu,555-0143,History,2024-08-15
+44,Ella,Adams,ella.adams@university.edu,555-0144,Mathematics,2024-08-15
+45,Sanjay,Chopra,sanjay.chopra@university.edu,555-0145,Physics,2025-01-10
+46,Victoria,Baker,victoria.baker@university.edu,555-0146,English Literature,2025-01-10
+47,Ananya,Joshi,ananya.joshi@university.edu,555-0147,Business Administration,2025-01-10
+48,Ryan,Nelson,ryan.nelson@university.edu,555-0148,Computer Science,2025-01-15
+49,Deepika,Rao,deepika.rao@university.edu,555-0149,Mechanical Engineering,2025-01-15
+50,Jack,Campbell,jack.campbell@university.edu,555-0150,Electrical Engineering,2025-01-15

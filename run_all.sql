@@ -1,0 +1,12 @@
+SOURCE sql/phase02_database_setup.sql;
+SOURCE sql/phase03_table_design.sql;
+SOURCE sql/phase04_keys_indexes.sql;
+SOURCE sql/phase05_load_data.sql;
+SOURCE sql/phase06_transaction_flow.sql;
+SOURCE sql/phase07_fine_automation.sql;
+SOURCE sql/phase08_scheduler.sql;
+SOURCE sql/phase09_audit_tracking.sql;
+SOURCE sql/phase10_student_activity.sql;
+SOURCE sql/phase11_reports.sql;
+SOURCE sql/special_features.sql;
+SOURCE sql/phase12_final_validation.sql;
